@@ -1,3 +1,2 @@
-# RI0
-TEST
-仅仅 是用来测试怎么上传
+# RNA
+now you have my github.
